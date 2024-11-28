@@ -24,7 +24,7 @@ This project demonstrates how to implement Firebase Authentication using SwiftUI
 
 ## Authentication Console in Firebase
 This is the Firebase console showing a successfully registered user:
-<img src="screenshot/1.jpg" alt="Game Screenshot" height="250" width="100"/>
+<img src="screenshot/1.jpg" alt="Game Screenshot" height="250" width="300"/>
 
 ## Sign-Up Screen
 Users can sign up by entering their email and password:
